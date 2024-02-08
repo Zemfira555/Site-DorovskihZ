@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat"),
+             url("Montserrat-Regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "LibreBaskerville-Regular";
+    src: local("LibreBaskerville-Regular") format("woff")
+      url(LibreBaskerville-Regular.woff);
+  }
